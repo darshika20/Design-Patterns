@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/filter-design-pattern/filter-design-pattern.iml" filepath="$PROJECT_DIR$/filter-design-pattern/filter-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype-design-pattern/prototype-design-pattern.iml" filepath="$PROJECT_DIR$/prototype-design-pattern/prototype-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-design-pattern/proxy-design-pattern.iml" filepath="$PROJECT_DIR$/proxy-design-pattern/proxy-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton-design-pattern/singleton-design-pattern.iml" filepath="$PROJECT_DIR$/singleton-design-pattern/singleton-design-pattern.iml" />
     </modules>
   </component>
