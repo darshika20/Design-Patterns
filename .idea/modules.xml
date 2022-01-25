@@ -9,6 +9,11 @@
       <module fileurl="file://$PROJECT_DIR$/command-design-pattern/command-design-pattern.iml" filepath="$PROJECT_DIR$/command-design-pattern/command-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/filter-design-pattern/filter-design-pattern.iml" filepath="$PROJECT_DIR$/filter-design-pattern/filter-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interpreter-design-pattern/interpreter-design-pattern.iml" filepath="$PROJECT_DIR$/interpreter-design-pattern/interpreter-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator-design-pattern/iterator-design-pattern.iml" filepath="$PROJECT_DIR$/iterator-design-pattern/iterator-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediator-design-pattern/mediator-design-pattern.iml" filepath="$PROJECT_DIR$/mediator-design-pattern/mediator-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memento-design-pattern/memento-design-pattern.iml" filepath="$PROJECT_DIR$/memento-design-pattern/memento-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer-design-pattern/observer-design-pattern.iml" filepath="$PROJECT_DIR$/observer-design-pattern/observer-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype-design-pattern/prototype-design-pattern.iml" filepath="$PROJECT_DIR$/prototype-design-pattern/prototype-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy-design-pattern/proxy-design-pattern.iml" filepath="$PROJECT_DIR$/proxy-design-pattern/proxy-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton-design-pattern/singleton-design-pattern.iml" filepath="$PROJECT_DIR$/singleton-design-pattern/singleton-design-pattern.iml" />
