@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/command-design-pattern/command-design-pattern.iml" filepath="$PROJECT_DIR$/command-design-pattern/command-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/filter-design-pattern/filter-design-pattern.iml" filepath="$PROJECT_DIR$/filter-design-pattern/filter-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intercepting-filter-design-pattern/intercepting-filter-design-pattern.iml" filepath="$PROJECT_DIR$/intercepting-filter-design-pattern/intercepting-filter-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/interpreter-design-pattern/interpreter-design-pattern.iml" filepath="$PROJECT_DIR$/interpreter-design-pattern/interpreter-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/iterator-design-pattern/iterator-design-pattern.iml" filepath="$PROJECT_DIR$/iterator-design-pattern/iterator-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediator-design-pattern/mediator-design-pattern.iml" filepath="$PROJECT_DIR$/mediator-design-pattern/mediator-design-pattern.iml" />
@@ -17,10 +18,12 @@
       <module fileurl="file://$PROJECT_DIR$/observer-design-pattern/observer-design-pattern.iml" filepath="$PROJECT_DIR$/observer-design-pattern/observer-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype-design-pattern/prototype-design-pattern.iml" filepath="$PROJECT_DIR$/prototype-design-pattern/prototype-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy-design-pattern/proxy-design-pattern.iml" filepath="$PROJECT_DIR$/proxy-design-pattern/proxy-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-locator-design-pattern/service-locator-design-pattern.iml" filepath="$PROJECT_DIR$/service-locator-design-pattern/service-locator-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton-design-pattern/singleton-design-pattern.iml" filepath="$PROJECT_DIR$/singleton-design-pattern/singleton-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/state-design-pattern/state-design-pattern.iml" filepath="$PROJECT_DIR$/state-design-pattern/state-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy-design-pattern/strategy-design-pattern.iml" filepath="$PROJECT_DIR$/strategy-design-pattern/strategy-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/template-design-pattern/template-design-pattern.iml" filepath="$PROJECT_DIR$/template-design-pattern/template-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transfer-object-design-pattern/transfer-object-design-pattern.iml" filepath="$PROJECT_DIR$/transfer-object-design-pattern/transfer-object-design-pattern.iml" />
     </modules>
   </component>
 </project>
